@@ -1,140 +1,103 @@
-# 🚀 Frontend Development Journey – 7 Levels
+# 🚀 HTML Mastery Roadmap – 7 Levels
 
-Welcome to my Frontend Development learning journey! This repository documents my progress through **7 Levels of Frontend Development** as part of my **180 Days Challenge to 40 LPA**.
-
-## 🎯 Goal
-Become a skilled Software Developer and secure a high-paying software engineering role by mastering modern web development.
-
----
-
-# 📚 Level 1 – HTML Fundamentals
-
-### Topics Covered
-- Introduction to HTML
+## 📚 Level 1: Introduction to HTML
+- What is HTML?
+- HTML Tags
+- HTML Elements
+- HTML Attributes
 - HTML Document Structure
-- Headings and Paragraphs
-- Lists and Tables
-- Forms and Inputs
-- Images and Links
-- Semantic HTML
-- HTML5 Elements
+- Headings & Paragraphs
 
 ### Project
-✅ Basic Portfolio Website
-
-### Key Learnings
-- HTML is the foundation of every website.
-- HTML provides structure to web pages.
-- Semantic tags improve accessibility and SEO.
-- HTML works together with CSS and JavaScript.
+✅ Simple Introduction Page
 
 ---
 
-# 📚 Level 2 – CSS Fundamentals
-- Selectors
-- Colors
-- Box Model
-- Flexbox
-- Grid
-- Responsive Design
+## 📚 Level 2: Text & Media Elements
+- Formatting Tags
+- Images
+- Audio
+- Video
+- Hyperlinks
+- Comments
 
 ### Project
-✅ Responsive Landing Page
+✅ Personal Profile Page
 
 ---
 
-# 📚 Level 3 – JavaScript Basics
-- Variables
-- Functions
-- Loops
-- Arrays
-- Objects
-- DOM Manipulation
+## 📚 Level 3: Lists & Tables
+- Ordered Lists
+- Unordered Lists
+- Description Lists
+- Tables
+- Table Attributes
 
 ### Project
-✅ To-Do App
+✅ Student Result Table
 
 ---
 
-# 📚 Level 4 – Advanced JavaScript
-- ES6+
-- Async/Await
-- Promises
-- Fetch API
-- Local Storage
+## 📚 Level 4: Forms Fundamentals
+- Form Tag
+- Input Types
+- Labels
+- Buttons
+- Select Dropdown
+- Textarea
 
 ### Project
-✅ Weather App
+✅ Registration Form
 
 ---
 
-# 📚 Level 5 – React.js
-- Components
-- Props
-- State
-- Hooks
-- Routing
+## 📚 Level 5: Advanced Forms
+- Validation Attributes
+- Fieldset & Legend
+- Datalist
+- Progress Bar
+- Meter Tag
 
 ### Project
-✅ React Dashboard
+✅ Online Survey Form
 
 ---
 
-# 📚 Level 6 – Advanced React
-- Context API
-- Redux
-- API Integration
-- Performance Optimization
+## 📚 Level 6: Semantic HTML5
+- Header
+- Nav
+- Main
+- Section
+- Article
+- Aside
+- Footer
 
 ### Project
-✅ Full React Application
+✅ Blog Website Layout
 
 ---
 
-# 📚 Level 7 – Frontend Mastery
-- Next.js
-- TypeScript
-- Authentication
-- Deployment
-- Performance & SEO
+## 📚 Level 7: HTML5 Advanced Features
+- Canvas
+- SVG
+- Iframe
+- Details & Summary
+- Figure & Figcaption
+- Meta Tags
+- SEO Basics
+- Accessibility (ARIA)
 
 ### Project
-✅ Production Ready Web Application
+✅ Complete Portfolio Website
 
 ---
 
-## 🏆 Challenge Progress
+## 🎯 Final Outcome
+After completing all 7 levels, you will be able to:
+- Build complete HTML websites
+- Create responsive page structures
+- Build forms and layouts
+- Use semantic HTML for SEO
+- Prepare for CSS & JavaScript learning
 
-- Day 11/180 Completed
-- Current Level: HTML Fundamentals
-- Target Package: 40 LPA
-
----
-
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Next.js
-- TypeScript
-- Git & GitHub
-
----
-
-## 📈 Connect With Me
-
-### GitHub
-https://github.com/yourusername
-
-### LinkedIn
-https://linkedin.com/in/yourprofile
-
-### Instagram
-https://instagram.com/nikhil._.code
-
----
-
-⭐ If you like this journey, don't forget to star the repository!
-
-#180DaysChallenge #FrontendDevelopment #WebDevelopment #HTML #CSS #JavaScript #ReactJS #40LPA
+🚀 Day 11/180 Challenge to 40 LPA
